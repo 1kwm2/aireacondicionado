@@ -1,0 +1,44 @@
+site_name: Infraestrucura Vehiculo Electrico
+site_url: 'https://ivehiculoelectrico.com/'
+
+theme:
+  palette:
+    primary: black
+  name: material
+  favicon: assets/images/ive.png
+  logo: assets/images/ive.png
+  language: es
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    
+markdown_extensions:
+  - abbr
+  - pymdownx.snippets
+  - pymdownx.tabbed
+
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.arithmatex:
+      generic: true
+  - attr_list
+  - toc:
+      permalink: true
+plugins:
+  - mknotebooks
+  - search
+  # - pdf-export
+      
+extra_javascript:
+  - assets/javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+extra_css:
+  # - assets/stylesheets/extra.css
