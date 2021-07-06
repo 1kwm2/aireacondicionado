@@ -1,5 +1,6 @@
 site_name: aire acondicionado
 site_url: 'https://ivehiculoelectrico.com/'
+repo_url: https://github.com/1kwm2/aireacondicionado
 
 theme:
   palette:
