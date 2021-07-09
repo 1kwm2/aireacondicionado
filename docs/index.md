@@ -5,6 +5,7 @@
 - [recarga](#recarga)
 - [R32](#r32)
 - [Con manometro y termometro](#con-manometro-y-termometro)
+- [comunicaciones](#comunicaciones)
 
 
 ## son practiacmente iguales el R32 y el 410,
@@ -47,5 +48,9 @@ Ts-Tm = 4
 en el ejemplo representado son 2, un ppoco recalentado, esta bien, si fuera negativo habria humedad (dentro de la campana) que podria danar el compresor
 ![](./assets/images/2021-07-06_19-17.png)
 
+## comunicaciones
+con la teirra ben puesta, comprobarq ue el neutro no tiene mas de 10v
+comprobar la comunicacion la senal respecto al neutro deb e oscilar en los 20 v cc
 
+[erificar la comunicación en un aire Inverter](https://www.youtube.com/watch?v=6UiBdMq3W_4)
 
