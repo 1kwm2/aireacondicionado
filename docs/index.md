@@ -26,6 +26,8 @@ tenemos qu emeter liquido, para que vayan bien dicueltos los dos compoentes del 
 ## recarga
 ![](./assets/images/2021-07-06_13-39.png)
 
+enchufar la botella y meterle en la aspiracion del compresor arrancado en frei o a 16 100 psi minimo. 
+
 
 ## R32
 
